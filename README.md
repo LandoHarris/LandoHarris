@@ -24,7 +24,7 @@ I'm constantly seeking to learn new things and grow, especially on how I write m
 <details>
   <summary>### Stats</summary>
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LandoHarris&show_icons=true)
 </details>
 
 ---
