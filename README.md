@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**LandoHarris/LandoHarris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! My name is Landon and I'm a passionate software engineering student set to graduate in early 2025.
+I'm constantly seeking to learn new things and grow, especially on how I write my code.
 
-Here are some ideas to get you started:
+### About Me
+- 🎓 **Education**: Software Engineering Student @Southern New Hampshire University
+- 💻 **Languages**: C++, JavaScript, HTML, Python, Java
+- 🎶 **Hobbies**: Music, Streaming, Painting/Art
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Up To
+- 🌱 **Currently Learning**: Deepening my understanding of what I've learned so far and exploring new things.
+- 🔧 **Working On**: Enhancing my existing apps and experimenting with new languages and frameworks.
+- 📚 **Looking for Help With**: Best practices in software architecture and design patterns and good opinions on where I can imporve.
+- 💬 **Ask Me About**: Anything tech-related, what games I'm playing now
+
+### Connect with Me
+- 📫 **How to Reach Me**: You can drop me a message right here on GitHub
+- 🌐 **Website**: Coming soon!
+
+### Fun Fact
+- ⚡ **Fun Fact**: I can play the flute and am okay at art so I try combining my artistic ideas with tech designs!
+
+---
+
+Feel free to explore my repositories, provide feedback, or just drop a message to say hi! Let's build something amazing together! 🚀✨
