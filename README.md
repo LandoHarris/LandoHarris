@@ -21,8 +21,11 @@ I'm constantly seeking to learn new things and grow, especially on how I write m
 ### Fun Fact
 - ⚡ **Fun Fact**: I can play the flute and am okay at art so I try combining my artistic ideas with tech designs!
   
-### Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LandoHarris&show_icons=true)
+<details>
+  <summary>### Stats</summary>
+  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+</details>
 
 ---
 
