@@ -25,6 +25,9 @@ I'm constantly seeking to learn new things and grow, especially on how I write m
   <summary>### Stats</summary>
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LandoHarris&show_icons=true)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LandoHarris&layout=compact)
+
 </details>
 
 ---
