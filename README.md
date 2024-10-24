@@ -16,7 +16,7 @@ I'm constantly seeking to learn new things and grow, especially on how I write m
 
 ### Connect with Me
 - 📫 **How to Reach Me**: You can drop me a message right here on GitHub
-- 🌐 **Website**: Coming soon!
+- 🌐 **Website**: https://landoharris.github.io/Portfolio
 
 ### Fun Fact
 - ⚡ **Fun Fact**: I can play the flute and am okay at art so I try combining my artistic ideas with tech designs!
